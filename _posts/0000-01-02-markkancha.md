@@ -10,4 +10,4 @@ Your text
 
 Use the left arrow to go back!
 
-this is another one
+This is a thorough testing done by the beginner.
